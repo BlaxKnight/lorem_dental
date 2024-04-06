@@ -1,0 +1,21 @@
+section, footer {
+  padding: 60px 0 !important;
+} 
+
+.text-justify {
+  text-align: justify;
+}
+
+.list-group-flush > .list-group-item {
+  border: none;
+}
+
+.input-group {
+  flex-wrap: nowrap !important;
+}
+
+@media only screen and (min-width: 768px) {
+  #tab-content {
+    padding-left: 225px;
+  }
+}
