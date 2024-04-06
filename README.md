@@ -67,7 +67,6 @@ You need to have the specific versions of compilers & framework otherwise it wil
       * Composer 2.6.2 ( Laravel 10 )
       * PHP 8.2.4
       * MySQL
-      * Vuejs 3 ( maybe )
 
    4. For Linux
 
@@ -82,4 +81,4 @@ Available for Windows, macOS, and Linux.
 
 ## :newspaper: License
 
-GPL-3.0 © [amanfromspace](https://github.com/BlaxKnight)
+MIT License [amanfromspace](https://github.com/BlaxKnight)
